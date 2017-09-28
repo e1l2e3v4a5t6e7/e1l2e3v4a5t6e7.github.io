@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+= Yi Zhang's Homepage
+
+== Yi Zhang
+~~~
+{}{img_left}{ZhangYi.jpg}{alt text}{320}{260}{}
+PhD,\n 
+[http://www.eee.ntu.edu.sg/Pages/home.aspx School of Electrical and Electronic Engineering], \n
+[http://www.ntu.edu.sg/Pages/home.aspx Nanyang Technological University (NTU)]\n
+Email: yzhang120@e.ntu.edu.sg
+
+[https://scholar.google.com/citations?hl=en&user=QepjRbkAAAAJ&view_op=list_works&gmla=AJsN-F4C_FBVVQOAK9lV27na9GkA1AC_RCt7mqy4fuLOEW4dM9EtUhHwvVIHJ2_-qP-xgLQBKI9ea4yCUzPAdTOS4Xa4e4k9qQKMEaQSNcPtz0Uf96CZAR4 Google Scholar]
+~~~
+
+== Brief Introduction
+Ms. Yi Zhang currently is a PhD candidate under the supervision of [http://www.ntu.edu.sg/home/rsu/ Prof. Su Rong] at [http://www.eee.ntu.edu.sg/Pages/home.aspx School of Electrical and Electronic Engineering], [http://www.ntu.edu.sg/Pages/home.aspx Nanyang Technological University (NTU)]. She received her B.S. degree at school of control science and engineering from [http://www.sdu.edu.cn/ Shandong University], China, in 2014.
+
+~~~
+== Research Interests
+- *urban traffic flow management* 
+- *model-based traffic signal scheduling*
+- *multi-directional pedestrian-flow simulation*
+~~~
+
+
